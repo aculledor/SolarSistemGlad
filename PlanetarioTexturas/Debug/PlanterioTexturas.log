@@ -1,0 +1,6 @@
+﻿  planetario.cpp
+c:\users\acull\source\repos\planteriotexturas\planteriotexturas\planetario.cpp(277): warning C4244: '=': conversión de 'double' a 'float'; posible pérdida de datos
+c:\users\acull\source\repos\planteriotexturas\planteriotexturas\planetario.cpp(287): warning C4244: '+=': conversión de 'double' a 'float'; posible pérdida de datos
+c:\users\acull\source\repos\planteriotexturas\planteriotexturas\planetario.cpp(294): warning C4244: '+=': conversión de 'double' a 'float'; posible pérdida de datos
+c:\users\acull\source\repos\planteriotexturas\planteriotexturas\planetario.cpp(509): warning C4101: 'transform': variable local sin referencia
+  PlanterioTexturas.vcxproj -> C:\Users\acull\source\repos\PlanterioTexturas\Debug\PlanterioTexturas.exe
